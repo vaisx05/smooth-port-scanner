@@ -1,7 +1,7 @@
 
 ## Description
 
-This is a simple Python script for performing port scanning on an IPv4 address using the `python-nmap` library. The script allows the user to input an IP address and a range of ports to scan. It then scans each port in the specified range and displays its status (open, closed, or filtered). The script is intended for educational and learning purposes and should be used responsibly and ethically.
+This is a smooth Python script for performing port scanning on an IPv4 address using the `python-nmap` library. The script allows the user to input an IP address and a range of ports to scan. It then scans each port in the specified range and displays its status (open, closed, or filtered). The script is intended for educational and learning purposes and should be used responsibly and ethically.
 
 ### How to Use
 
@@ -15,19 +15,19 @@ This is a simple Python script for performing port scanning on an IPv4 address u
     
     bashCopy code
     
-    `git clone https://github.com/your_username/simple-port-scanner.git`
+    `git clone https://github.com/vaisx05/smooth-port-scanner.git`
     
 3. Navigate to the Project Directory: Change your working directory to the project folder:
     
     bashCopy code
     
-    `cd simple-port-scanner`
+    `cd smooth-port-scanner`
     
 4. Run the Script: Execute the Python script using the following command:
     
     bashCopy code
     
-    `python3 port_scanner.py`
+    `python3 vl_smooth-port-scanner.py`
     
 5. Follow the Instructions: The script will prompt you to enter the IPv4 address you want to scan and the range of ports you want to scan. Enter the required information as per the instructions.
     
